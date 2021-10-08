@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'appserviwebcus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0C7109E646C418A844F57D579476B75 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18729089FD1B4BF08CC4D9ACEB0D75A6 }}
           package: .
