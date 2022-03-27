@@ -1,0 +1,10 @@
+sQzGji=)Ty-E@S6s-rVsIZW5.YlhaRAR
+
+
+find / -name "hosts*"
+find / -user "linda"
+find / -user
+"linda" -exec cp {} /dev/null \;
+
+
+tail -f /var/log/messages
